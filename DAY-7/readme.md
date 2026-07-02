@@ -1,5 +1,6 @@
 # MERN STACK
 **DAY-7**
+---
 **Date : 2 July 2026**
 
 # CSS Display & Flexbox
