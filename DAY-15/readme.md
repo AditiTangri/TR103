@@ -12,12 +12,6 @@ Bootstrap is a popular front-end framework used to develop responsive and mobile
 
 It provides ready-made CSS classes and components that help developers create modern user interfaces with less custom CSS.
 
-Bootstrap follows a mobile-first approach, which means designs are created for smaller screens first and then adjusted for larger devices.
-
-Bootstrap can be included in a project using:
-
-- Bootstrap CDN
-- Downloaded Bootstrap files
 
 ---
 
