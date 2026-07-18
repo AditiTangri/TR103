@@ -197,7 +197,41 @@ backend/
 └── server.js
 ```
 
+
+## Mongoose Schema and Model
+
+### Schema
+
+A **Schema** in Mongoose defines the structure (shape) of documents stored in a MongoDB collection. It specifies the fields, their names, and the data types that each field should contain.
+
+Example:
+
+```javascript
+const schema = mongoose.Schema({
+    Name: String,
+    Email: String,
+    Age: Number
+});
+```
+
+The schema acts as a blueprint for documents before they are saved into MongoDB.
+
+### Model
+
+A Model is a Mongoose object created from a schema. It provides an interface to interact with the MongoDB collection, allowing us to perform database operations like:
+
+Creating documents
+Reading data
+Updating records
+Deleting records
+
+Example:
+```javascript
+const usermodel = mongoose.model("Detail", schema, "Detail");
+```
+
 ---
+
 
 **Name:** ADITI TANGRI
 
