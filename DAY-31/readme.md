@@ -46,6 +46,7 @@ app.post("/login",async(req,res)=>{
 ```
 
 ## LOGIN API FLOW
+```
 Frontend
    |
    |  Email + Password
@@ -65,7 +66,7 @@ Login Success   Invalid Credentials
    |
    v
 Return User Details
-
+```
 
 ---
 **NAME : ADITI TANGRI**
