@@ -1,5 +1,5 @@
 # MERN STACK
-## DAY-36
+## DAY - 36
 ## Date: 5 August 2026
 
 # Project: PARKEASY - Parking Management System
